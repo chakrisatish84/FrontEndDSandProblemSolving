@@ -1,0 +1,69 @@
+.AppRoot {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+/* OTP Login Styles */
+.otpRoot {
+  display: flex;
+  gap: 20px;
+}
+
+.otpInputStyles {
+  width: 1ch;
+}
+
+.questionRoot {
+  border: 1px solid black;
+  padding: 0 20px;
+  /* width: 90%; */
+}
+
+.optionsStyles {
+  list-style: none;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.optionListStyles {
+  /* background-color: red; */
+  padding: 20px;
+}
+
+.optionListButtonStyles {
+  width: 100%;
+  padding: 20px;
+  background-color: lightgray;
+}
+
+.optionListButtonStyles:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.resultContenStyles {
+  text-align: center;
+  font-weight: 400;
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+}
+
+.retryButtonStyles {
+  outline: none;
+  border: none;
+  font-size: large;
+  color: red;
+  font-weight: bold;
+  border-bottom: 1px solid red;
+}
+
+.questionsResultStyles{
+  margin-top: 20px;
+  font-size: x-large;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

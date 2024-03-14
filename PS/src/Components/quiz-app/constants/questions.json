@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Rome"],
+      "correct_answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+      "correct_answer": "Mars"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jane Austen",
+        "Leo Tolstoy"
+      ],
+      "correct_answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "correct_answer": "H2O"
+    },
+    {
+      "question": "Which country is famous for the pyramids?",
+      "options": ["Italy", "Mexico", "Egypt", "Greece"],
+      "correct_answer": "Egypt"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "correct_answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the tallest mammal on Earth?",
+      "options": ["Elephant", "Giraffe", "Hippopotamus", "Whale"],
+      "correct_answer": "Giraffe"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct_answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Euro", "Dollar", "Yen", "Pound"],
+      "correct_answer": "Yen"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": [
+        "Alexander Fleming",
+        "Marie Curie",
+        "Louis Pasteur",
+        "Thomas Edison"
+      ],
+      "correct_answer": "Alexander Fleming"
+    }
+  ]
+}
