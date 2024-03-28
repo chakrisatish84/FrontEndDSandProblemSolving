@@ -67,3 +67,27 @@
   flex-direction: column;
   gap: 20px;
 }
+
+/* Selecteable Grid */
+.grid{
+  display: grid;
+  grid-template-columns: repeat(var(--cols,10), 35px);
+  grid-template-rows: repeat(var(--rows, 10), 35px);
+  gap:2px;
+  user-select: none;
+}
+
+.cell{
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  width: 35px;
+}
+
+.selected{
+  background-color: lightblue;
+}
